@@ -1,0 +1,40 @@
+{
+  "jsonData": [
+    {
+      "userName": "Andres Gomez",
+      "subject": "I can not login to my account",
+      "customerSatisfaction": "100%",
+      "priority": "High",
+      "status": "Solved"
+    },
+    {
+      "userName": "Ezequiel Salatino",
+      "subject": "I need help!!, cannot login to my playvox acc....",
+      "customerSatisfaction": "80%",
+      "priority": "Medium",
+      "status": "Open"
+    },
+    {
+      "userName": "Emiliano Cosenza",
+      "subject": "I can not login to my account",
+      "customerSatisfaction": "100%",
+      "priority": "Low",
+      "status": "Pending"
+    },
+    {
+      "userName": "Sofía Castillo",
+      "subject": "I got problems with the internet",
+      "customerSatisfaction": "90%",
+      "priority": "High",
+      "status": "Pending"
+    },
+    {
+      "userName": "María Naranjo",
+      "subject": "I got problems with the software",
+      "customerSatisfaction": "40%",
+      "priority": "Low",
+      "status": "Solved"
+    }
+  ]
+}
+
